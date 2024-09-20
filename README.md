@@ -28,7 +28,7 @@ Telco industry is uniquely positioned where emotional factors and customer exper
 - What is loyalty?
 ![image](https://github.com/user-attachments/assets/e4c03504-6dc8-44ff-99c4-b53655bd5602)
 
-according to our tenure density graphs our biggest customer density esta dentro de los 0 de 12 meses, a partir de ahi, podemos observa una estabilidad a traves de los meses. 
+ our biggest customer density esta dentro de los 0 de 12 meses, a partir de ahi, podemos observa una estabilidad a traves de los meses. 
 Entonces definiremos a loyal customer a aquellos que puedan llegar a este periodo de estabilidad. Observemos con mas detalles el comportamiento del cliente en el tiempo. 
 
 ![image](https://github.com/user-attachments/assets/89264236-b8cb-4f1b-91cf-46473b33c1cc)
