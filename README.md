@@ -28,7 +28,8 @@ Telco industry is uniquely positioned where emotional factors and customer exper
 This  anonymus Telecommunication company dataset with customer preferences, demographic information, fundamental telco services and extra services counts with more than 7000 customers.
 
 #Numerical Variables VS Churn
-![Numerical data](https://github.com/user-attachments/assets/269b3aa8-f4f6-4496-ba2f-58071f9d6e67)
+![Numerical data](https://github.com/user-attachments/assets/30dabe6d-6171-48c5-b890-8129b3cc80f9)
+
 
 
 
