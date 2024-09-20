@@ -33,3 +33,5 @@ LOYALTY INCREASER   1. quantify values, 2business metrics, 3 simple story about 
 CHURNS TRIGGERS 
 
 **CATCHING IMAGE_____**
+
+## ASSUMPTIONS AND RECOMENDATIONS
