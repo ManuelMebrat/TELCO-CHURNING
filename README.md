@@ -17,11 +17,11 @@ The telecom industry is uniquely positioned where emotional factors and customer
 
 Conclusions, insights, and recommendations are provided in the following areas:
 
-How to increase loyalty: Identifying the variables that encourage customer retention.
+**How to increase loyalty:** Identifying the variables that encourage customer retention.
 
 Churn anticipation: Identifying the variables that drive customer churn.
 
-# How to increase loyalty
+# How to increase loyalty?
 • What is loyalty?
 ![image](https://github.com/user-attachments/assets/e4c03504-6dc8-44ff-99c4-b53655bd5602)
 
@@ -29,16 +29,23 @@ Churn anticipation: Identifying the variables that drive customer churn.
 
 ![image](https://github.com/user-attachments/assets/89264236-b8cb-4f1b-91cf-46473b33c1cc)
 
-• Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months. This highlights the critical importance of the early customer experience. **What is making them stay?**
+• Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months. This highlights the critical importance of the early customer experience, so **What is making them stay?**
 
 
 ## Relationships
 
 ![image](https://github.com/user-attachments/assets/36b4c31f-c1f0-47a2-af7a-d2b9a57c34f8)
 
-• Customers with dependents or partners tend to perceive a potential loss of stability and security as more significant. According to [Prospect theory,](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf) the fear of losing benefits or support from their current services may outweigh the perceived gains of switching providers.
+• Customers with dependents or partners tend to perceive a potential loss of stability and security as more significant. According to [Prospect theory,](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf) the fear of losing benefits or support from their current services may outweigh the perceived gains of switching providers. Having a partner can reduce the churn rate from 33% to 19%,and a dependant from 31% to just 15%. 
 
-In conclusion, customers with family responsibilities show a higher propensity to stay with their current provider, as they value the stability and security it offers.
+In conclusion, customers with family responsibilities show a higher propensity to stay with their current provider, as they value the stability and security it offers. However we can't directly control this variable, so what can we control to make they stay?
+
+## Extra ~~services~~ Value
+
+In a telco company, extra services refer to additional features or options offered to customers beyond basic services like internet, phonelines and multiple lines. For this company  the extra services are Only security, Online backup, Device protection, and Tech support.
+
+![image](https://github.com/user-attachments/assets/146d161c-3285-4bd5-98ab-807b624afa5b)
+
 
 
 
