@@ -3,13 +3,7 @@ Telco industry is uniquely positioned where emotional factors and customer exper
 
 ![CUstomechurn](https://github.com/user-attachments/assets/498fb735-56e5-4096-89f6-7fb6af41754b)
 
-**to understand why** this happends, lets analyze this anonymus Telecommunication company dataset with customer preferences, demographic information, fundamental telco services and extra services.
-
-conclusions insights and recomendations are provided on the following area
-
-**Increase loyalty:** what are the variables that makes customer STAY
-
-**Churn anticipation:** what are the variables that make customer leave or company
+**to understand why** this happends, lets dive into this projects that analyzes anonymus Telecommunication company dataset with customer preferences, demographic information, fundamental telco services and extra services.
 
 # PROJECT STRUCTURE
 
@@ -22,6 +16,12 @@ THE JUPYTER NOTEBOOK WITH THE PYTHON CODE AND LIBRERIES CAN BE FOUND HERE
 SQL QUERIES FOR THE QA TESTING FOR THE DASBOARD CAN BE FOUND HERE 
 
 THE EXCEL DATASET CAN BE FOUND HERE
+
+**conclusions insights and recomendations are provided on the following area
+**
+**How to increase loyalty:** what are the variables that makes customer STAY
+
+**Churn anticipation:** what are the variables that make customer leave or company
 
 ### EXECUTIVE SUMMARY 
 BALBALALA CONCLUSION BALBAALB BALABLA 
