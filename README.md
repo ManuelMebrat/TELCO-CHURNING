@@ -1,9 +1,7 @@
 # TELCO_CHURNING
-Telco industry is uniquely positioned where emotional factors and customer experience are as influential as product offerings. By applying consumer psychology to the Telco Customer Churn Dataset, we can uncover the motivations behind customer behavior and retention.
-
 ![CUstomechurn](https://github.com/user-attachments/assets/498fb735-56e5-4096-89f6-7fb6af41754b)
 
-**to understand why** this happends, lets dive into this projects that analyzes anonymus Telecommunication company dataset with customer preferences, demographic information, fundamental telco services and extra services.
+**to understand why** this happends, lets dive into this projects that 
 
 # PROJECT STRUCTURE
 
@@ -17,21 +15,21 @@ SQL QUERIES FOR THE QA TESTING FOR THE DASBOARD CAN BE FOUND HERE
 
 THE EXCEL DATASET CAN BE FOUND HERE
 
+### EXECUTIVE SUMMARY 
+Telco industry is uniquely positioned where emotional factors and customer experience are as influential as product offerings. By applying consumer psychology to the Telco Customer Churn Dataset, we can uncover the motivations behind customer behavior and retention.
+
 **conclusions insights and recomendations are provided on the following area
 **
 **How to increase loyalty:** what are the variables that makes customer STAY
 
 **Churn anticipation:** what are the variables that make customer leave or company
 
-### EXECUTIVE SUMMARY 
-BALBALALA CONCLUSION BALBAALB BALABLA 
+# Data structure and Initial checks
+This  anonymus Telecommunication company dataset with customer preferences, demographic information, fundamental telco services and extra services counts with more than 7000 customers.
 
-DASHBOARD HERE(link)
+#Numerical Variables VS Churn
+![Numerical data](https://github.com/user-attachments/assets/269b3aa8-f4f6-4496-ba2f-58071f9d6e67)
 
-LOYALTY INCREASER   1. quantify values, 2business metrics, 3 simple story about historical trend 
 
-CHURNS TRIGGERS 
 
-**CATCHING IMAGE_____**
-
-## ASSUMPTIONS AND RECOMENDATIONS
+ 
