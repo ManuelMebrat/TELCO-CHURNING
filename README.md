@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/08ba3fce-afca-40a8-8f34-404d8107b148)![image](https://github.com/user-attachments/assets/09cdc902-a6ce-402d-b58d-fecdd83d324e)# TELCO_CHURNING
+# TELCO_CHURNING
 ![CUstomechurn](https://github.com/user-attachments/assets/498fb735-56e5-4096-89f6-7fb6af41754b)
 
 **to understand why** this happends, lets dive into this projects that 
