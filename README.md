@@ -16,16 +16,18 @@ To understand why this happens, let's dive into this project:
 •Excel Dataset: Download [here].
 
 ### EXECUTIVE SUMMARY 
-The telecom industry is uniquely positioned where emotional factors and customer experience significantly influence retention, alongside product offerings. By applying consumer psychology to the Telco Customer Churn Dataset, we can better understand customer behavior and retention drivers.
+The telecom industry is uniquely positioned where emotional factors and customer experience significantly influence retention, alongside product offerings. By applying consumer psychology to the Anonymus Telco Customer Churn Dataset from IBM Congos, we can better understand customer behavior and retention drivers.
 
-Conclusions, insights, and recommendations are provided in the following areas:
+### Conclusions, insights, and recommendations are provided in the following areas:
 
 **How to increase loyalty:** Identifying the variables that encourage customer retention.
 
 Churn anticipation: Identifying the variables that drive customer churn.
 
 # How to increase loyalty?
-• What is loyalty?
+
+### • What is loyalty?
+
 ![image](https://github.com/user-attachments/assets/e4c03504-6dc8-44ff-99c4-b53655bd5602)
 
 • Our highest customer density is within the first 12 months, with 2,186 customers out of 7,043. After this period, we observe more stable retention. We define a loyal customer as one who remains beyond this initial 12-month period. Let’s explore customer behavior over time in more detail.
@@ -41,7 +43,9 @@ Churn anticipation: Identifying the variables that drive customer churn.
 
 • Customers with dependents or partners tend to perceive a potential loss of stability and security as more significant. According to [Prospect theory,](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf) the fear of losing benefits or support from their current services may outweigh the perceived gains of switching providers. Having a partner can reduce the churn rate from 33% to 19%,and a dependant from 31% to just 15%. 
 
-In conclusion, customers with family responsibilities show a higher propensity to stay with their current provider, as they value the stability and security it offers. However we can't directly control this variable, so what can we control to make they stay?
+In conclusion, customers with family responsibilities show a higher propensity to stay with their current provider, as they value the stability and security it offers. 
+
+However we can't directly control this variable, so what can we control to make they stay?
 
 ## Extra ~~services~~ Value
 
@@ -49,6 +53,11 @@ In a telco company, extra services refer to additional features or options offer
 
 ![image](https://github.com/user-attachments/assets/146d161c-3285-4bd5-98ab-807b624afa5b)
 
+• Increased Perceived Value: Extra services enhance the overall package, making it harder for customers to find equivalent value elsewhere.
+
+• Loss Aversion: Customers fear losing added protections (security, backup), making them less likely to switch providers.
+
+• Customer Inertia: A comprehensive service package creates a barrier to leaving, as switching feels more complex and risky.
 
 
 
