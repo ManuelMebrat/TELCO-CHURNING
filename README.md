@@ -28,15 +28,18 @@ Telco industry is uniquely positioned where emotional factors and customer exper
 - What is loyalty?
 ![image](https://github.com/user-attachments/assets/e4c03504-6dc8-44ff-99c4-b53655bd5602)
 
- our biggest customer density esta dentro de los 0 de 12 meses, a partir de ahi, podemos observa una estabilidad a traves de los meses. 
+• our biggest customer density esta dentro de los 0 de 12 meses, a partir de ahi, podemos observa una estabilidad a traves de los meses. 
 Entonces definiremos a loyal customer a aquellos que puedan llegar a este periodo de estabilidad. Observemos con mas detalles el comportamiento del cliente en el tiempo. 
 
 ![image](https://github.com/user-attachments/assets/89264236-b8cb-4f1b-91cf-46473b33c1cc)
 
-Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months of service, while 44.51% churned after this critical period. These figures highlight the importance of focusing on the early stages of the customer experience, as the majority of churn occurs within the first year. **What is making them STAY? **
+• Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months of service, while 44.51% churned after this critical period. These figures highlight the importance of focusing on the early stages of the customer experience, as the majority of churn occurs within the first year. **What is making them STAY? **
 
 
-### Age and Tenure
+## Relations
+
+![image](https://github.com/user-attachments/assets/1f4695a5-8328-4b73-bc43-0c0a6bfc829e)
+
 
 
 
