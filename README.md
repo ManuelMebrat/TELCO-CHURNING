@@ -53,6 +53,8 @@ In a telco company, extra services refer to additional features or options offer
 
 ![image](https://github.com/user-attachments/assets/146d161c-3285-4bd5-98ab-807b624afa5b)
 
+Understaing the cost of oportunity of diference churn rate between having or not this extra services, will give us an image of how much or company is losing by not engagig our customer with this services 
+
 Extra services like security, online backup, device protection, and tech support play a crucial role in reducing churn rates for telco companies. By bundling these additional features, the perceived value of the service increases, and customers are more hesitant to switch providers. Here’s how these services contribute to customer retention:
 
 • Increased Perceived Value: Extra services enhance the overall package, making it harder for customers to find equivalent value elsewhere.
