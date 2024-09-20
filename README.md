@@ -1,45 +1,44 @@
 # TELCO_CHURNING
 ![CUstomechurn](https://github.com/user-attachments/assets/498fb735-56e5-4096-89f6-7fb6af41754b)
 
-**to understand why** this happends, lets dive into this projects that 
+To understand why this happens, let's dive into this project:
 
-# PROJECT STRUCTURE
+#PROJECT STRUCTURE
 
 ![workflow](https://github.com/user-attachments/assets/a47584bd-d906-42a8-8c3a-38bc588b469c)
 
-AN INTERACTIVE POWERBI DASHBOARD CAN DOWLOAND HERE
-
-THE JUPYTER NOTEBOOK WITH THE PYTHON CODE AND LIBRERIES CAN BE FOUND HERE
-
-SQL QUERIES FOR THE QA TESTING FOR THE DASBOARD CAN BE FOUND HERE 
-
-THE EXCEL DATASET CAN BE FOUND HERE
+Interactive PowerBI Dashboard: Available for download [here].
+Jupyter Notebook: Python code and libraries [here].
+SQL Queries: For QA testing of the dashboard [here].
+Excel Dataset: Download [here].
 
 ### EXECUTIVE SUMMARY 
-Telco industry is uniquely positioned where emotional factors and customer experience are as influential as product offerings. By applying consumer psychology to the Telco Customer Churn Dataset, we can uncover the motivations behind customer behavior and retention.
+The telecom industry is uniquely positioned where emotional factors and customer experience significantly influence retention, alongside product offerings. By applying consumer psychology to the Telco Customer Churn Dataset, we can better understand customer behavior and retention drivers.
 
-**conclusions insights and recomendations are provided on the following area
-**
-**How to increase loyalty:** what are the variables that makes customer STAY
+Conclusions, insights, and recommendations are provided in the following areas:
 
-**Churn anticipation:** what are the variables that make customer leave or company
+How to increase loyalty: Identifying the variables that encourage customer retention.
+
+Churn anticipation: Identifying the variables that drive customer churn.
 
 # How to increase loyalty
-- What is loyalty?
+• What is loyalty?
 ![image](https://github.com/user-attachments/assets/e4c03504-6dc8-44ff-99c4-b53655bd5602)
 
-• our biggest customer density esta dentro de los 0 de 12 meses, a partir de ahi, podemos observa una estabilidad a traves de los meses. 
-Entonces definiremos a loyal customer a aquellos que puedan llegar a este periodo de estabilidad. Observemos con mas detalles el comportamiento del cliente en el tiempo. 
+• Our highest customer density is within the first 12 months, with 2,186 customers out of 7,043. After this period, we observe more stable retention. We define a loyal customer as one who remains beyond this initial 12-month period. Let’s explore customer behavior over time in more detail.
 
 ![image](https://github.com/user-attachments/assets/89264236-b8cb-4f1b-91cf-46473b33c1cc)
 
-• Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months of service, while 44.51% churned after this critical period. These figures highlight the importance of focusing on the early stages of the customer experience, as the majority of churn occurs within the first year. **What is making them STAY? **
+• Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months. This highlights the critical importance of the early customer experience. **What is making them stay?**
 
 
-## Relations
+## Relationships
 
-![image](https://github.com/user-attachments/assets/1f4695a5-8328-4b73-bc43-0c0a6bfc829e)
+![image](https://github.com/user-attachments/assets/36b4c31f-c1f0-47a2-af7a-d2b9a57c34f8)
 
+• Customers with dependents or partners tend to perceive a potential loss of stability and security as more significant. According to [prospect theory]([url](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf)), the fear of losing benefits or support from their current services may outweigh the perceived gains of switching providers.
+
+In conclusion, customers with family responsibilities show a higher propensity to stay with their current provider, as they value the stability and security it offers.
 
 
 
