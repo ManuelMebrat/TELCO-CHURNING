@@ -36,7 +36,7 @@ Churn anticipation: Identifying the variables that drive customer churn.
 
 ![image](https://github.com/user-attachments/assets/36b4c31f-c1f0-47a2-af7a-d2b9a57c34f8)
 
-• Customers with dependents or partners tend to perceive a potential loss of stability and security as more significant. According to [prospect theory]([https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf]), the fear of losing benefits or support from their current services may outweigh the perceived gains of switching providers.
+• Customers with dependents or partners tend to perceive a potential loss of stability and security as more significant. According to [Prospect theory,](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf) the fear of losing benefits or support from their current services may outweigh the perceived gains of switching providers.
 
 In conclusion, customers with family responsibilities show a higher propensity to stay with their current provider, as they value the stability and security it offers.
 
