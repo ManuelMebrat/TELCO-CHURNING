@@ -93,3 +93,11 @@ Offering free trials of services like device protection or tech support can show
 
 
 # 2. What is causing them to leave?
+
+Let's check the reasons:
+
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/7f2316ff-9683-42c2-95e3-d59d2fd043d7">
+
+
+Now let's check the facts
+
