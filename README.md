@@ -90,3 +90,6 @@ Creating flexible service bundles that offer customers more control over choosin
 **Promotional Trials:** 
 
 Offering free trials of services like device protection or tech support can showcase the benefits and create habits of use, making customers more reluctant to give them up.
+
+
+# 2. What is causing them to leave?**
