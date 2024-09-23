@@ -101,7 +101,7 @@ Let's check the reasons:
 
 Now let's check the facts
 
-![image](https://github.com/user-attachments/assets/aa1cd93a-7af3-405d-9cef-36bc31f61446)
+![image](https://github.com/user-attachments/assets/5c118cf5-e959-4e13-b7a6-2dbfbce68a83)
 
 
 
