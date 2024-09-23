@@ -24,20 +24,22 @@ The telecom industry is uniquely positioned where emotional factors and customer
 
 Churn anticipation: Identifying the variables that drive customer churn.
 
-# How to increase loyalty?
 
+# Maybe un WHY 
+
+TEXT TEXT TEXT Companies nowadays just focus in customer adquisition ////  #numbers
 ### • What is loyalty?
 
 ![image](https://github.com/user-attachments/assets/e4c03504-6dc8-44ff-99c4-b53655bd5602)
 
-• Our highest customer density is within the first 12 months, with 2,186 customers out of 7,043. After this period, we observe more stable retention. We define a loyal customer as one who remains beyond this initial 12-month period. Let’s explore customer behavior over time in more detail.
+• First the first. Our highest customer density is within the first 12 months, with 2,186 customers out of 7,043. After this period, we observe more stable retention. We define a loyal customer as one who remains beyond this initial 12-month period. Let’s explore customer behavior over time in more detail.
 
 ![image](https://github.com/user-attachments/assets/89264236-b8cb-4f1b-91cf-46473b33c1cc)
 
 • Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months. This highlights the critical importance of the early customer experience, so **What is making them stay?**
 
 
-## Relationships
+## 1. Relationships
 
 ![image](https://github.com/user-attachments/assets/36b4c31f-c1f0-47a2-af7a-d2b9a57c34f8)
 
@@ -47,9 +49,9 @@ In conclusion, customers with family responsibilities show a higher propensity t
 
 However we can't directly control this variable, so what can we control to make they stay?
 
-## Extra ~~services~~ Value
+## 2. Extra ~~services~~ Value
 
-In a telco company, extra services refer to additional features or options offered to customers beyond basic services like internet, phonelines and multiple lines. For this company  the extra services are Only security, Online backup, Device protection, and Tech support.
+In a telco company, extra services refer to additional features or options offered to customers beyond basic services like internet, phonelines and multiple lines. For this company  the extra services are Only security, Online backup, Device protection, and Tech support. 
 
 ![image](https://github.com/user-attachments/assets/146d161c-3285-4bd5-98ab-807b624afa5b)
 
@@ -65,7 +67,7 @@ Extra services play a crucial role in reducing churn rates for telco companies. 
 
 • Customer Inertia: A comprehensive service package creates a barrier to leaving, as switching feels more complex and risky.
 
-
+# **So how to increase Loyalty**
 
 
  
