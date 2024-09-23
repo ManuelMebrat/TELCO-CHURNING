@@ -27,7 +27,8 @@ Churn anticipation: Identifying the variables that drive customer churn.
 
 # Maybe un WHY 
 
-TEXT TEXT TEXT Companies nowadays just focus in customer adquisition ////  #numbers
+TEXT TEXT TEXT Companies nowadays just focus in customer adquisition ////  #numbers but what is really happening. Lack of loyalty and early quit 
+
 ### • What is loyalty?
 
 ![image](https://github.com/user-attachments/assets/e4c03504-6dc8-44ff-99c4-b53655bd5602)
@@ -38,8 +39,8 @@ TEXT TEXT TEXT Companies nowadays just focus in customer adquisition ////  #numb
 
 Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months. This underscores the critical importance of early customer experience, prompting two key questions:
 
-**What is driving customers to stay?
-What is causing them to leave?**
+**1. What is driving customers to stay?
+2. What is causing them to leave?**
 
 
 
