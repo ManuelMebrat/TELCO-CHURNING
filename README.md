@@ -100,4 +100,6 @@ Let's check the reasons:
 
 
 Now let's check the facts
+ ![image](https://github.com/user-attachments/assets/5bf3c473-09f7-4e78-a15b-8febd5baa2a6) ![image](https://github.com/user-attachments/assets/4d18bf57-0355-4b7d-b592-fc1bf3d0e081)
+
 
