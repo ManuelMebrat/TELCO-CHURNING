@@ -36,9 +36,11 @@ TEXT TEXT TEXT Companies nowadays just focus in customer adquisition ////  #numb
 
 ![image](https://github.com/user-attachments/assets/89264236-b8cb-4f1b-91cf-46473b33c1cc)
 
-• Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months. This highlights the critical importance of the early customer experience, making me question two things:
-1.**What is making them stay?** 
-2. WHAT IS MAKING THEM LEFT EDITTTT
+Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months. This underscores the critical importance of early customer experience, prompting two key questions:
+
+**What is driving customers to stay?
+What is causing them to leave?**
+
 
 
 ## 1. Relationships
