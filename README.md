@@ -100,6 +100,9 @@ Let's check the reasons:
 
 
 Now let's check the facts
-![image](https://github.com/user-attachments/assets/a2f90355-477d-480e-971c-0497cb950aa8)
+
+![image](https://github.com/user-attachments/assets/aa1cd93a-7af3-405d-9cef-36bc31f61446)
+
+
 
 
