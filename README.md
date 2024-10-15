@@ -108,9 +108,13 @@ Let's check the reasons:
 
 Churn Reasons Due to Competitors:
 
-Competitor had better devices: 313 customers
-Competitor made a better offer: 311 customers
-Competitor offered more data: 117 customers
+Competitor had better devices: 313 customers.
+
+Competitor made a better offer: 311 customers.
+
+Competitor offered more data: 117 customers.
+
+
 
 
 Now let's check the facts
