@@ -1,5 +1,5 @@
 #  TELCO_CHURNING
-![CUstomechurn](https://github.com/user-attachments/assets/498fb735-56e5-4096-89f6-7fb6af41754b)
+
 
 To understand why this happens, let's dive into this project:
 
