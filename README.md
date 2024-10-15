@@ -22,9 +22,9 @@ By analyzing this data, we aim to identify the variables that enhance customer l
 
 # Conclusions & recommendations:
 
-**Enhancing Customer Loyalty:** Analyzing key variables that contribute to increased customer retention and long-term loyalty.
+**Enhancing Customer Loyalty:** LALALLALA.
 
-**Key factors contributing to customer churn:** Identifying the factors that lead to customer churn and anticipating potential risks.
+**Key factors contributing to customer churn:** ALLALALAL.
 
 
 
