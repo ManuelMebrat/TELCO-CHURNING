@@ -114,7 +114,9 @@ Competitor made a better offer: 311 customers.
 
 Competitor offered more data: 117 customers.
 
+Competitor offered higher download speeds 100. 
 
+Customers are more likely to switch when they perceive better value in terms of device quality, competitive pricing, and enhanced data and speed offerings. This underlines the importance for telecom providers to continually assess and potentially upgrade their device offerings and data plans to remain competitive and retain customers. COnector to below
 
 
 Now let's check the facts
