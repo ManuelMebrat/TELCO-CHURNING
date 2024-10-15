@@ -140,6 +140,18 @@ Additionally, customers using Paperless Billing also show a higher churn rate of
 ![file2](https://github.com/user-attachments/assets/274a993a-e1b9-44d6-a7c8-e030d630959a)
 
 
+The data reveals that Fiber Optic service users experience a high churn rate of 41.89%, which is significantly higher compared to DSL users (18.96%) and those without internet service (7.40%). This trend suggests potential issues specifically associated with Fiber Optic services that might be causing dissatisfaction among customers.
 
+There are several potential reasons for this disparity:
+
+• Service Expectations: Fiber Optic is often marketed as a high-speed and premium internet service. Customers who subscribe may have higher expectations for performance and reliability. If these are not met, they may be more likely to switch to competitors.
+
+• Pricing: Fiber Optic plans are typically more expensive than DSL, and customers may not perceive the additional cost as justified by the quality. Competitors offering comparable or better plans could entice these customers with more appealing prices.
+
+• Availability of Alternatives: Fiber Optic users might be more tech-savvy or bandwidth-intensive, making them more sensitive to offers from competitors that highlight speed, data, or other performance features. They could also be more willing to switch to get the best available service.
+
+• Fiber Optic Infrastructure: Some areas might experience more technical issues with Fiber Optic connections, leading to frustration and, ultimately, churn.
+
+To address this, it may be beneficial to explore the exact causes of dissatisfaction among Fiber Optic users through customer surveys or feedback channels. Improving reliability, offering competitive pricing, and highlighting unique benefits could help reduce churn in this group.
 
 
