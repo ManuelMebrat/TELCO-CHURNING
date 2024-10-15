@@ -3,9 +3,10 @@
 
 To understand why this happens, let's dive into this project:
 
-#PROJECT STRUCTURE
+#PROJECT STRUCTURE![CUstomechurn](https://github.com/user-attachments/assets/7db4ff01-a151-40e5-b30e-5abbdd9c8fdc)
 
-![workflow](https://github.com/user-attachments/assets/a47584bd-d906-42a8-8c3a-38bc588b469c)
+
+
 
 •Interactive PowerBI Dashboard: Available for download [here].
 
