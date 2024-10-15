@@ -104,15 +104,13 @@ Offering free trials of services like device protection or tech support can show
 
 Competitor (841): A significant portion of customers are switching to competitors, suggesting they may perceive better value or service elsewhere. This highlights a need for competitive analysis and differentiation strategies.
 
-Let's check the reasons:
-
 Churn Reasons Due to Competitors:
 
-Competitor had better devices: 313 customers.
+Competitor had better devices:  313 customers.
 
 Competitor made a better offer: 311 customers.
 
-Competitor offered more data: 117 customers.
+Competitor offered more data:   117 customers.
 
 Competitor offered higher download speeds 100. 
 
