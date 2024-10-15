@@ -50,7 +50,7 @@ Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 
 
 • Our highest customer density is within the first 12 months, with 2,186 customers out of 7,043. After this period, we observe more stable retention. We define a loyal customer as one who remains beyond this initial 12-month period. Let’s explore customer behavior over time in more detail.
 
-## 1. Relationships
+## Relationships
 
 ![image](https://github.com/user-attachments/assets/36b4c31f-c1f0-47a2-af7a-d2b9a57c34f8)
 
@@ -60,7 +60,7 @@ In conclusion, customers with family responsibilities show a higher propensity t
 
 However we can't directly control this variable, so what can we control to make they stay?
 
-## 2. Extra ~~services~~ Value
+## Extra ~~services~~ Value
 
 In a telco company, extra services refer to additional features or options offered to customers beyond basic services like internet, phonelines and multiple lines. For this company  the extra services are Only security, Online backup, Device protection, and Tech support. 
 
@@ -99,7 +99,7 @@ Offering free trials of services like device protection or tech support can show
 
 # 2. What is causing them to leave?
 
-### Better than us
+## Straight reasons
 ![image](https://github.com/user-attachments/assets/6bb23a3c-8d30-4b6f-8f3f-ce8b66681910)
 
 Competitor (841): A significant portion of customers are switching to competitors, suggesting they may perceive better value or service elsewhere. This highlights a need for competitive analysis and differentiation strategies.
