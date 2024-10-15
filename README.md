@@ -7,13 +7,13 @@ To understand why this happens, let's dive into this project:
 
 ![workflow](https://github.com/user-attachments/assets/a47584bd-d906-42a8-8c3a-38bc588b469c)
 
-•Interactive PowerBI Dashboard: Available for download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/8a47102f354a3132aa80919c718c58815d1ed047/Cchurn.csv).
+•Interactive PowerBI Dashboard: Available for download [here].
 
 •Jupyter Notebook: Python code and libraries [here].
 
 •SQL Queries: For QA testing of the dashboard [here].
 
-•Excel Dataset: Download [here].
+•Excel Dataset: Download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/8a47102f354a3132aa80919c718c58815d1ed047/Cchurn.csv).
 
 ### EXECUTIVE SUMMARY 
 The telecom industry is uniquely positioned where emotional factors and customer experience significantly influence retention, alongside product offerings. By applying consumer psychology to the Anonymus Telco Customer Churn Dataset from IBM Congos, we can better understand customer behavior and retention drivers.
