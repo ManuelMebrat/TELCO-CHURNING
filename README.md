@@ -22,7 +22,7 @@ By analyzing this data, we aim to identify the variables that enhance customer l
 
 # Conclusions & recommendations:
 
-1.**Enhancing Customer Loyalty**
+1. **Enhancing Customer Loyalty**
 
 **What is driving customers to stay?**
 
@@ -31,7 +31,7 @@ A. Relationships and Dependents: The presence of relationships or dependents sig
 B. Increased Perceived Value: Offering additional services enhances the overall value, making it difficult for customers to find equivalent packages elsewhere. This strategy could potentially save nearly $250,000 monthly by retaining customers through added services.
 
 2. **Key factors contributing to customer churn**
-   
+
 **What are we doing wrong?**
 
 A. Competitive Device Quality and Offers: Customers are more inclined to switch to competitors when they perceive better value in device quality, competitive pricing, and improved data or speed offerings. Notably, 46% of churn cases involve customers moving to competitors due to superior device options and offers.
