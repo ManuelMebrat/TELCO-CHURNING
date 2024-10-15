@@ -31,7 +31,7 @@ A. Device Quality and Offers: Customers are more inclined to switch to competito
 B. Payment Methods and Service Quality Issues: Specific categories, such as Paperless Billing and the Electronic Check payment method, exhibit high churn rates (33.57% and 45.29%, respectively). Additionally, poor quality in Fiber Optic service is associated with a significant churn rate of 41.89%. Addressing these factors could substantially reduce churn within these segments.
 
 
-### PROJECT BACKGROUND 
+# PROJECT BACKGROUND 
 The telecom industry uniquely relies on both customer experience and emotional factors to drive retention. This project leverages the Telco Customer Churn Dataset from IBM Congos to delve into consumer psychology and its impact on customer retention. 
 
 By analyzing this data, we aim to identify the variables that enhance customer loyalty and reduce the likelihood of churn. Specifically, the project will explore two key areas: **Enhancing Customer Loyalty & Key factors contributing to customer churn.**
