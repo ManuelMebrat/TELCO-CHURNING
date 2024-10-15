@@ -22,7 +22,7 @@
 
 **What is driving customers to stay?**
 
-A. Relationships and Dependents: The presence of relationships or dependents significantly lowers churn rates, dropping from 33% to 19% and 31% to just 15%, respectively. Customer acquisition campaigns should target these groups, as they are more likely to maintain long-term loyalty..
+A. The presence of relationships or dependents significantly lowers churn rates, dropping from 33% to 19% and 31% to just 15%, respectively. Customer acquisition campaigns should target these groups, as they are more likely to maintain long-term loyalty.
 
 B. Increased Perceived Value: Offering additional services enhances the overall value, making it difficult for customers to find equivalent packages elsewhere. This strategy could save nearly $250,000 monthly by retaining customers through added services.
 
@@ -30,7 +30,7 @@ B. Increased Perceived Value: Offering additional services enhances the overall 
 
 **What are we doing wrong?**
 
-A. Competitive Device Quality and Offers: Customers are more inclined to switch to competitors when they perceive better value in device quality, competitive pricing, and improved data or speed offerings. Notably, 46% of churn cases involve customers moving to competitors due to superior device options and offers.
+A. Device Quality and Offers: Customers are more inclined to switch to competitors when they perceive better devices quality, competitive pricing, and improved data or speed offerings. Notably, 46% of churn cases involve customers moving to competitors due to superior device options and offers.
 
 B. Payment Methods and Service Quality Issues: Specific categories, such as Paperless Billing and the Electronic Check payment method, exhibit high churn rates (33.57% and 45.29%, respectively). Additionally, poor quality in Fiber Optic service is associated with a significant churn rate of 41.89%. Addressing these factors could substantially reduce churn within these segments.
 
