@@ -1,5 +1,7 @@
 
 
+#  TELCO CHURNING
+
 ### PROJECT STRUCTURE
 
 
@@ -32,7 +34,6 @@ A. Competitive Device Quality and Offers: Customers are more inclined to switch 
 
 B. Payment Methods and Service Quality Issues: Specific categories, such as Paperless Billing and the Electronic Check payment method, exhibit high churn rates (33.57% and 45.29%, respectively). Additionally, poor quality in Fiber Optic service is associated with a significant churn rate of 41.89%. Addressing these factors could substantially reduce churn within these segments.
 
-#  TELCO CHURNING
 
 ### PROJECT BACKGROUND 
 The telecom industry uniquely relies on both customer experience and emotional factors to drive retention. This project leverages the Telco Customer Churn Dataset from IBM Congos to delve into consumer psychology and its impact on customer retention. 
