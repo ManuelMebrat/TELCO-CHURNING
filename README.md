@@ -20,7 +20,7 @@ By analyzing this data, we aim to identify the variables that enhance customer l
 •CSV Dataset: Download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/5dcf90172e48c1c4f5202ba78a73255ef38373a3/Churn_Files/Cchurn.csv).
 
 
-# Conclusions & recommendations:
+# Conclusions & recommendations: 
 
 1. **Enhancing Customer Loyalty**
 
