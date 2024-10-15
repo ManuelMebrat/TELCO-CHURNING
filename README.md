@@ -5,8 +5,7 @@ The telecom industry uniquely relies on both customer experience and emotional f
 
 This project leverages the Telco Customer Churn Dataset from IBM Congos to delve into consumer psychology and its impact on customer retention. 
 
-By analyzing this data, we aim to identify the variables that enhance customer loyalty and reduce the likelihood of churn. Specifically, the project will explore two key areas: 
-## **Enhancing Customer Loyalty & Key factors contributing to customer churn.**
+By analyzing this data, we aim to identify the variables that enhance customer loyalty and reduce the likelihood of churn. Specifically, the project will explore two key areas: **Enhancing Customer Loyalty & Key factors contributing to customer churn.**
 
 
 ### PROJECT STRUCTURE
