@@ -144,7 +144,7 @@ The data reveals that Fiber Optic service users experience a high churn rate of 
 
 
 
-#  So What are we doing wrong?
+# What are we doing wrong?
 
 • Customers using Electronic Check and opting for Paperless Billing are showing higher churn rates, often leaving for competitors due to attractive device offers or better service deals.
 
@@ -154,9 +154,9 @@ These patterns suggest the need to enhance our payment options to be more secure
 
 What can we do?
 
-• **Handle Service Expectations:** Fiber Optic is often marketed as a high-speed and premium internet service. Customers may therefore expect top-notch performance and reliability. If we fall short in meeting these expectations, customers are more likely to look elsewhere.
+**Handle Service Expectations:** Fiber Optic is often marketed as a high-speed and premium internet service. Customers may therefore expect top-notch performance and reliability. If we fall short in meeting these expectations, customers are more likely to look elsewhere.
 
-• **Competitive Pricing:** Fiber Optic plans are typically priced higher than DSL, but customers may not feel the extra cost is justified by the quality of service. To retain these customers, it may be necessary to ensure that our pricing is perceived as fair or provide additional value that justifies the cost.
+**Competitive Pricing:** Fiber Optic plans are typically priced higher than DSL, but customers may not feel the extra cost is justified by the quality of service. To retain these customers, it may be necessary to ensure that our pricing is perceived as fair or provide additional value that justifies the cost.
 
-• **Adapt to Tech-Savvy Customers:** Fiber Optic users and those who prefer user-friendly payment methods are likely to be more tech-savvy. This demographic may be more sensitive to competing offers that highlight features like speed, data limits, or overall performance. They may also be more inclined to switch to a provider that delivers the best available service. Improving our service offerings and enhancing our payment infrastructure could therefore be key to retaining these customers.
+**Adapt to Tech-Savvy Customers:** Fiber Optic users and those who prefer user-friendly payment methods are likely to be more tech-savvy. This demographic may be more sensitive to competing offers that highlight features like speed, data limits, or overall performance. They may also be more inclined to switch to a provider that delivers the best available service. Improving our service offerings and enhancing our payment infrastructure could therefore be key to retaining these customers.
 
