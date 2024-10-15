@@ -136,6 +136,7 @@ Additionally, customers using Paperless Billing also show a higher churn rate of
 • This difference raises questions about whether the Electronic Check users might have concerns related to billing preferences or whether there is a broader issue with digital payment experiences.
 
 
+## Internet Service
 
 ![file2](https://github.com/user-attachments/assets/274a993a-e1b9-44d6-a7c8-e030d630959a)
 
