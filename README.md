@@ -5,7 +5,7 @@ The telecom industry uniquely relies on both customer experience and emotional f
 
 This project leverages the Telco Customer Churn Dataset from IBM Congos to delve into consumer psychology and its impact on customer retention. By analyzing this data, we aim to identify the variables that enhance customer loyalty and reduce the likelihood of churn. Specifically, the project will explore two key areas: 
 
-## **Enhancing Customer Loyalty & Predicting Customer Churn.**
+## **Enhancing Customer Loyalty & Key factors contributing to customer churn.**
 
 
 ### PROJECT STRUCTURE
@@ -26,7 +26,7 @@ This project leverages the Telco Customer Churn Dataset from IBM Congos to delve
 
 **Enhancing Customer Loyalty:** Analyzing key variables that contribute to increased customer retention and long-term loyalty.
 
-**Predicting Customer Churn:** Identifying the factors that lead to customer churn and anticipating potential risks.
+**Key factors contributing to customer churn:** Identifying the factors that lead to customer churn and anticipating potential risks.
 
 
 
@@ -99,7 +99,7 @@ Offering free trials of services like device protection or tech support can show
 
 # 2. What is causing them to leave?
 
-## Straight reasons
+## • Straight reasons
 ![image](https://github.com/user-attachments/assets/6bb23a3c-8d30-4b6f-8f3f-ce8b66681910)
 
 Competitor (841): A significant portion of customers are switching to competitors, suggesting they may perceive better value or service elsewhere. This highlights a need for competitive analysis and differentiation strategies.
@@ -117,9 +117,7 @@ Churn Reasons Due to Competitors:
 Customers are more likely to switch when they perceive better value in terms of device quality, competitive pricing, and enhanced data and speed offerings. This underlines the importance for telecom providers to continually assess and potentially upgrade their device offerings and data plans to remain competitive and retain customers. So what are we doing wrong?
 
 
-## TITLE
-
-### Payment process
+## • Payment process
 
 
 ![PEque;a](https://github.com/user-attachments/assets/849136e4-0033-496f-883c-c49aa70f1540)
@@ -136,23 +134,13 @@ Additionally, customers using Paperless Billing also show a higher churn rate of
 • This difference raises questions about whether the Electronic Check users might have concerns related to billing preferences or whether there is a broader issue with digital payment experiences.
 
 
-## Internet Service
+## • Internet Service
 
 ![file2](https://github.com/user-attachments/assets/274a993a-e1b9-44d6-a7c8-e030d630959a)
 
 
 The data reveals that Fiber Optic service users experience a high churn rate of 41.89%, which is significantly higher compared to DSL users (18.96%) and those without internet service (7.40%). This trend suggests potential issues specifically associated with Fiber Optic services that might be causing dissatisfaction among customers.
 
-There are several potential reasons for this disparity:
-
-• Service Expectations: Fiber Optic is often marketed as a high-speed and premium internet service. Customers who subscribe may have higher expectations for performance and reliability. If these are not met, they may be more likely to switch to competitors.
-
-• Pricing: Fiber Optic plans are typically more expensive than DSL, and customers may not perceive the additional cost as justified by the quality. Competitors offering comparable or better plans could entice these customers with more appealing prices.
-
-• Availability of Alternatives: Fiber Optic users might be more tech-savvy or bandwidth-intensive, making them more sensitive to offers from competitors that highlight speed, data, or other performance features. They could also be more willing to switch to get the best available service.
-
-• Fiber Optic Infrastructure: Some areas might experience more technical issues with Fiber Optic connections, leading to frustration and, ultimately, churn.
-
-To address this, it may be beneficial to explore the exact causes of dissatisfaction among Fiber Optic users through customer surveys or feedback channels. Improving reliability, offering competitive pricing, and highlighting unique benefits could help reduce churn in this group.
 
 
+# Which are the Key factors contributing to customer churn
