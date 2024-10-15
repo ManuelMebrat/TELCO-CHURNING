@@ -11,7 +11,7 @@ To understand why this happens, let's dive into this project:
 
 •Jupyter Notebook: Python code and libraries [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/a5b981395d33fcff55da6dbd811a34d9e16fc1cf/Telco_EDA.ipynb).
 
-•SQL Queries: For QA testing of the dashboard [here].
+•SQL Queries: For QA testing of the dashboard [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/f8651f0e24319716efd08e31b1e4deb6349dab68/Churn_Files/SQL_QA_Churn.pages).
 
 •Excel Dataset: Download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/8a47102f354a3132aa80919c718c58815d1ed047/Cchurn.csv).
 
