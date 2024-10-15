@@ -10,6 +10,10 @@ The telecom industry is uniquely positioned where emotional factors and customer
 
 **Predicting Customer Churn:** Identifying the factors that lead to customer churn and anticipating potential risks.
 
+
+### PROJECT STRUCTURE
+
+
 <img width="1256" alt="Screenshot 2024-10-15 at 14 52 04" src="https://github.com/user-attachments/assets/e6177d6c-f48f-4f4a-9217-2875dc29ac63">
 
 •Interactive PowerBI Dashboard: Available for download [here].
