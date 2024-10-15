@@ -38,6 +38,7 @@ Companies today often focus on customer acquisition, but what’s really happeni
 Out of 1,869 customers who churned, an alarming 55.49% left within the first 12 months. This underscores the critical importance of early customer experience, prompting two key questions:
 
 **1. What is driving customers to stay?
+
 2. What is causing them to leave?**
 
 # 1. What is driving customers to stay?
