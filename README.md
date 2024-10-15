@@ -106,13 +106,13 @@ Competitor (841): A significant portion of customers are switching to competitor
 
 Churn Reasons Due to Competitors:
 
-Competitor had better devices:  313 customers.
+• Competitor had better devices:  313 customers.
 
-Competitor made a better offer: 311 customers.
+• Competitor made a better offer: 311 customers.
 
-Competitor offered more data:   117 customers.
+• Competitor offered more data:   117 customers.
 
-Competitor offered higher download speeds 100. 
+• Competitor offered higher download speeds 100. 
 
 Customers are more likely to switch when they perceive better value in terms of device quality, competitive pricing, and enhanced data and speed offerings. This underlines the importance for telecom providers to continually assess and potentially upgrade their device offerings and data plans to remain competitive and retain customers. So what are we doing wrong?
 
