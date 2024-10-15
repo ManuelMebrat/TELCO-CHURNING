@@ -1,9 +1,6 @@
 #  TELCO_CHURNING
 
-
-To understand why this happens, let's dive into this project:
-
-#PROJECT STRUCTURE![CUstomechurn](https://github.com/user-attachments/assets/7db4ff01-a151-40e5-b30e-5abbdd9c8fdc)
+![CUstomechurn](https://github.com/user-attachments/assets/7db4ff01-a151-40e5-b30e-5abbdd9c8fdc)
 
 
 
