@@ -133,6 +133,7 @@ Additionally, customers using Paperless Billing also show a higher churn rate of
 
 • This difference raises questions about whether the Electronic Check users might have concerns related to billing preferences or whether there is a broader issue with digital payment experiences.
 
+The data indicates that customers using the Electronic Check payment method, particularly those enrolled in Paperless Billing, exhibit higher churn rates compared to other payment options. This suggests that while these options are popular, they may not provide the level of convenience or reliability that customers expect. Improving the ease and security of our payment infrastructure could enhance customer satisfaction and reduce churn.
 
 ## • Internet Service
 
@@ -143,4 +144,15 @@ The data reveals that Fiber Optic service users experience a high churn rate of 
 
 
 
-# Which are the Key factors contributing to customer churn
+#  So What are we doing wrong?
+
+There are several potential reasons for this disparity:
+
+• Service Expectations: Fiber Optic is often marketed as a high-speed and premium internet service. Customers who subscribe may have higher expectations for performance and reliability. If these are not met, they may be more likely to switch to competitors.
+
+• Pricing: Fiber Optic plans are typically more expensive than DSL, and customers may not perceive the additional cost as justified by the quality. Competitors offering comparable or better plans could entice these customers with more appealing prices.
+
+• Availability of Alternatives: Fiber Optic users might be more tech-savvy or bandwidth-intensive, making them more sensitive to offers from competitors that highlight speed, data, or other performance features. They could also be more willing to switch to get the best available service.
+
+• Fiber Optic Infrastructure: Some areas might experience more technical issues with Fiber Optic connections, leading to frustration and, ultimately, churn.
+
