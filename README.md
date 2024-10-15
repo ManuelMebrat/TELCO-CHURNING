@@ -4,12 +4,6 @@
 The telecom industry is uniquely positioned where emotional factors and customer experience significantly influence retention, alongside product offerings. By applying consumer psychology to the Telco Customer Churn Dataset from IBM Congos, we can better understand customer behavior and retention drivers.
 
 
-### Conclusions, insights, and recommendations are provided in the following areas:
-
-**Enhancing Customer Loyalty:** Analyzing key variables that contribute to increased customer retention and long-term loyalty.
-
-**Predicting Customer Churn:** Identifying the factors that lead to customer churn and anticipating potential risks.
-
 
 ### PROJECT STRUCTURE
 
@@ -25,11 +19,15 @@ The telecom industry is uniquely positioned where emotional factors and customer
 •CSV Dataset: Download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/5dcf90172e48c1c4f5202ba78a73255ef38373a3/Churn_Files/Cchurn.csv).
 
 
+### Conclusions, and recommendations:
+
+**Enhancing Customer Loyalty:** Analyzing key variables that contribute to increased customer retention and long-term loyalty.
+
+**Predicting Customer Churn:** Identifying the factors that lead to customer churn and anticipating potential risks.
 
 
 
-
-# WHY is this happenning?
+# Why is this happenning?
 
 TEXT TEXT TEXT Companies nowadays just focus in customer adquisition ////  #numbers but what is really happening. Lack of loyalty and early quit 
 
