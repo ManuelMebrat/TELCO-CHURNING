@@ -101,7 +101,8 @@ Offering free trials of services like device protection or tech support can show
 
 Let's check the reasons:
 
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/7f2316ff-9683-42c2-95e3-d59d2fd043d7">
+![image](https://github.com/user-attachments/assets/6bb23a3c-8d30-4b6f-8f3f-ce8b66681910)
+
 
 
 Now let's check the facts
