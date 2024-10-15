@@ -9,7 +9,7 @@ To understand why this happens, let's dive into this project:
 
 •Interactive PowerBI Dashboard: Available for download [here].
 
-•Jupyter Notebook: Python code and libraries [[here]]https://github.com/ManuelMebrat/TELCO_CHURNING/blob/e332f57bb493e15494778e493ec88b48f1cfa4e4/Churn_Files/Telco_EDA.ipynb
+•Jupyter Notebook: Python code and libraries [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/e332f57bb493e15494778e493ec88b48f1cfa4e4/Churn_Files/Telco_EDA.ipynb).
 
 •SQL Queries: For QA testing of the dashboard [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/f8651f0e24319716efd08e31b1e4deb6349dab68/Churn_Files/SQL_QA_Churn.pages).
 
