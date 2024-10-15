@@ -1,8 +1,11 @@
 #  TELCO CHURNING
 
 ### PROJECT BACKGROUND 
-The telecom industry is uniquely positioned where emotional factors and customer experience significantly influence retention, alongside product offerings. By applying consumer psychology to the Telco Customer Churn Dataset from IBM Congos, we can better understand customer behavior and retention drivers.
+The telecom industry is a dynamic sector where both emotional factors and customer experience play crucial roles in influencing customer retention. Unlike many other industries, telecommunications providers must go beyond offering reliable products and services; they also need to cultivate strong emotional connections with their customers to foster long-term loyalty. Understanding these aspects is essential for reducing churn and increasing customer satisfaction.
 
+This project leverages the Telco Customer Churn Dataset from IBM Congos to delve into consumer psychology and its impact on customer retention. By analyzing this data, we aim to identify the variables that enhance customer loyalty and reduce the likelihood of churn. Specifically, the project will explore two key areas: 
+
+**Enhancing Customer Loyalty and Predicting Customer Churn**
 
 
 ### PROJECT STRUCTURE
