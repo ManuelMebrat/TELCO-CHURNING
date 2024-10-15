@@ -99,7 +99,7 @@ Offering free trials of services like device protection or tech support can show
 
 # 2. What is causing them to leave?
 
-
+### Better than us
 ![image](https://github.com/user-attachments/assets/6bb23a3c-8d30-4b6f-8f3f-ce8b66681910)
 
 Competitor (841): A significant portion of customers are switching to competitors, suggesting they may perceive better value or service elsewhere. This highlights a need for competitive analysis and differentiation strategies.
@@ -114,10 +114,10 @@ Competitor offered more data:   117 customers.
 
 Competitor offered higher download speeds 100. 
 
-Customers are more likely to switch when they perceive better value in terms of device quality, competitive pricing, and enhanced data and speed offerings. This underlines the importance for telecom providers to continually assess and potentially upgrade their device offerings and data plans to remain competitive and retain customers. COnector to below
+Customers are more likely to switch when they perceive better value in terms of device quality, competitive pricing, and enhanced data and speed offerings. This underlines the importance for telecom providers to continually assess and potentially upgrade their device offerings and data plans to remain competitive and retain customers. 
 
 
-Now let's check the facts
+### What are we doing wrong
 
 ![PEque;a](https://github.com/user-attachments/assets/849136e4-0033-496f-883c-c49aa70f1540)
 
