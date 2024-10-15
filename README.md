@@ -127,9 +127,13 @@ Customers are more likely to switch when they perceive better value in terms of 
 ![file](https://github.com/user-attachments/assets/97a92709-ddeb-4a61-9a8a-484d005c4cb6)
 
 
-The data suggests that the Electronic Check payment method is associated with a notably high churn rate of 45.29%, compared to much lower rates for other methods like Credit Card (15.24%) and Bank Transfer (16.71%). This discrepancy indicates a potential problem with the Electronic Check option that could be driving customers away.
+The data suggests that the Electronic Check payment method is associated with a notably high churn rate of 45.29%, compared to much lower rates for other methods like Credit Card (15.24%) and Bank Transfer (16.71%). 
 
-Additionally, customers using Paperless Billing also show a higher churn rate of 33.57% compared to those using paper billing (16.34%). This difference raises questions about whether the Electronic Check users might have concerns related to billing preferences or whether there is a broader issue with digital payment experiences.
+• This discrepancy indicates a potential problem with the Electronic Check option that could be driving customers away.
+
+Additionally, customers using Paperless Billing also show a higher churn rate of 33.57% compared to those using paper billing (16.34%). 
+
+• This difference raises questions about whether the Electronic Check users might have concerns related to billing preferences or whether there is a broader issue with digital payment experiences.
 
 
 
