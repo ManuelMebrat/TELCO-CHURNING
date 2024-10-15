@@ -18,17 +18,13 @@
 
 # Conclusions & recommendations: 
 
-1. **Enhancing Customer Loyalty**
-
-**What is driving customers to stay?**
+1. **Enhancing Customer Loyalty** - **What is driving customers to stay?**
 
 A. The presence of relationships or dependents significantly lowers churn rates, dropping from 33% to 19% and 31% to just 15%, respectively. Customer acquisition campaigns should target these groups, as they are more likely to maintain long-term loyalty.
 
 B. Increased Perceived Value: Offering additional services enhances the overall value, making it difficult for customers to find equivalent packages elsewhere. This strategy could save nearly $250,000 monthly by retaining customers through added services.
 
-2. **Key factors contributing to customer churn**
-
-**What are we doing wrong?**
+2. **Key factors contributing to customer churn** - **What are we doing wrong?**
 
 A. Device Quality and Offers: Customers are more inclined to switch to competitors when they perceive better devices quality, competitive pricing, and improved data or speed offerings. Notably, 46% of churn cases involve customers moving to competitors due to superior device options and offers.
 
