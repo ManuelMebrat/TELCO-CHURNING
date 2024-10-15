@@ -146,13 +146,17 @@ The data reveals that Fiber Optic service users experience a high churn rate of 
 
 #  So What are we doing wrong?
 
-There are several potential reasons for this disparity:
+• Customers using Electronic Check and opting for Paperless Billing are showing higher churn rates, often leaving for competitors due to attractive device offers or better service deals.
 
-• Service Expectations: Fiber Optic is often marketed as a high-speed and premium internet service. Customers who subscribe may have higher expectations for performance and reliability. If these are not met, they may be more likely to switch to competitors.
+• Similarly, customers with Fiber Optic Internet service experience significant churn, possibly seeking alternatives because of concerns over service quality or disruptions.
 
-• Pricing: Fiber Optic plans are typically more expensive than DSL, and customers may not perceive the additional cost as justified by the quality. Competitors offering comparable or better plans could entice these customers with more appealing prices.
+These patterns suggest the need to enhance our payment options to be more secure and user-friendly. At the same time, addressing issues with internet service quality, particularly for Fiber Optic, could help reduce churn. Additionally, staying competitive in device offerings and service packages may assist in retaining customers who might otherwise switch to competitors.
 
-• Availability of Alternatives: Fiber Optic users might be more tech-savvy or bandwidth-intensive, making them more sensitive to offers from competitors that highlight speed, data, or other performance features. They could also be more willing to switch to get the best available service.
+What can we do?
 
-• Fiber Optic Infrastructure: Some areas might experience more technical issues with Fiber Optic connections, leading to frustration and, ultimately, churn.
+• **Handle Service Expectations:** Fiber Optic is often marketed as a high-speed and premium internet service. Customers may therefore expect top-notch performance and reliability. If we fall short in meeting these expectations, customers are more likely to look elsewhere.
+
+• **Competitive Pricing:** Fiber Optic plans are typically priced higher than DSL, but customers may not feel the extra cost is justified by the quality of service. To retain these customers, it may be necessary to ensure that our pricing is perceived as fair or provide additional value that justifies the cost.
+
+• **Adapt to Tech-Savvy Customers:** Fiber Optic users and those who prefer user-friendly payment methods are likely to be more tech-savvy. This demographic may be more sensitive to competing offers that highlight features like speed, data limits, or overall performance. They may also be more inclined to switch to a provider that delivers the best available service. Improving our service offerings and enhancing our payment infrastructure could therefore be key to retaining these customers.
 
