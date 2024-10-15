@@ -37,9 +37,9 @@ The telecom industry uniquely relies on both customer experience and emotional f
 By analyzing this data, we aim to identify the variables that enhance customer loyalty and reduce the likelihood of churn. Specifically, the project will explore two key areas: **Enhancing Customer Loyalty & Key factors contributing to customer churn.**
 
 
-# Why is this happenning?
+# What is happenning?
 
-Companies today often focus on customer acquisition, but what’s really happening is a lack of loyalty and high early churn. New customers frequently leave soon after joining, pointing to deeper issues beyond initial attraction. Without strong retention strategies, businesses risk losing customers as quickly as they gain them, missing opportunities for long-term growth and loyalty.
+Companies today often focus on customer acquisition, but then face a lack of loyalty and high early churn. New customers frequently leave soon after joining, pointing to deeper issues beyond initial attraction. Without strong retention strategies, businesses risk losing customers as quickly as they gain them, missing opportunities for long-term growth and loyalty.
 
 
 ![image](https://github.com/user-attachments/assets/89264236-b8cb-4f1b-91cf-46473b33c1cc)
