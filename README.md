@@ -3,7 +3,8 @@
 ### EXECUTIVE SUMMARY 
 The telecom industry is uniquely positioned where emotional factors and customer experience significantly influence retention, alongside product offerings. By applying consumer psychology to the Anonymus Telco Customer Churn Dataset from IBM Congos, we can better understand customer behavior and retention drivers.
 
-![CUstomechurn](https://github.com/user-attachments/assets/7db4ff01-a151-40e5-b30e-5abbdd9c8fdc)
+<img width="1256" alt="Screenshot 2024-10-15 at 14 52 04" src="https://github.com/user-attachments/assets/e6177d6c-f48f-4f4a-9217-2875dc29ac63">
+
 
 •Interactive PowerBI Dashboard: Available for download [here].
 
