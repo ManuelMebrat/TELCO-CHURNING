@@ -97,7 +97,7 @@ Creating flexible service bundles that offer customers more control over choosin
 Offering free trials of services like device protection or tech support can showcase the benefits and create habits of use, making customers more reluctant to give them up.
 
 
-# 2. What is causing them to leave?
+# 2. What are we doing wrong?
 
 ## • Straight reasons
 ![image](https://github.com/user-attachments/assets/6bb23a3c-8d30-4b6f-8f3f-ce8b66681910)
@@ -144,15 +144,7 @@ The data reveals that Fiber Optic service users experience a high churn rate of 
 
 
 
-# What are we doing wrong?
-
-• Customers using Electronic Check and opting for Paperless Billing are showing higher churn rates, often leaving for competitors due to attractive device offers or better service deals.
-
-• Similarly, customers with Fiber Optic Internet service experience significant churn, possibly seeking alternatives because of concerns over service quality or disruptions.
-
-These patterns suggest the need to enhance our payment options to be more secure and user-friendly. At the same time, addressing issues with internet service quality, particularly for Fiber Optic, could help reduce churn. Additionally, staying competitive in device offerings and service packages may assist in retaining customers who might otherwise switch to competitors.
-
-What can we do?
+# What can we do?
 
 **Handle Service Expectations:** Fiber Optic is often marketed as a high-speed and premium internet service. Customers may therefore expect top-notch performance and reliability. If we fall short in meeting these expectations, customers are more likely to look elsewhere.
 
