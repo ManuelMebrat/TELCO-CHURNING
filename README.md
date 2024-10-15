@@ -7,7 +7,7 @@ To understand why this happens, let's dive into this project:
 
 ![workflow](https://github.com/user-attachments/assets/a47584bd-d906-42a8-8c3a-38bc588b469c)
 
-•Interactive PowerBI Dashboard: Available for download [here].
+•Interactive PowerBI Dashboard: Available for download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/8a47102f354a3132aa80919c718c58815d1ed047/Cchurn.csv).
 
 •Jupyter Notebook: Python code and libraries [here].
 
