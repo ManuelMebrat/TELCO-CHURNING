@@ -13,7 +13,7 @@ To understand why this happens, let's dive into this project:
 
 •SQL Queries: For QA testing of the dashboard [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/f8651f0e24319716efd08e31b1e4deb6349dab68/Churn_Files/SQL_QA_Churn.pages).
 
-•CSV Dataset: Download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/8a47102f354a3132aa80919c718c58815d1ed047/Cchurn.csv).
+•CSV Dataset: Download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/5dcf90172e48c1c4f5202ba78a73255ef38373a3/Churn_Files/Cchurn.csv).
 
 ### EXECUTIVE SUMMARY 
 The telecom industry is uniquely positioned where emotional factors and customer experience significantly influence retention, alongside product offerings. By applying consumer psychology to the Anonymus Telco Customer Churn Dataset from IBM Congos, we can better understand customer behavior and retention drivers.
