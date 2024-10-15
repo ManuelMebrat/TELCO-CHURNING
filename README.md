@@ -99,17 +99,12 @@ Offering free trials of services like device protection or tech support can show
 
 # 2. What is causing them to leave?
 
-Let's check the reasons:
 
 ![image](https://github.com/user-attachments/assets/6bb23a3c-8d30-4b6f-8f3f-ce8b66681910)
 
 Competitor (841): A significant portion of customers are switching to competitors, suggesting they may perceive better value or service elsewhere. This highlights a need for competitive analysis and differentiation strategies.
 
-Attitude (314): A substantial number of customers cite dissatisfaction with the company's attitude or service approach. This may indicate issues with customer service or brand perception, emphasizing the importance of building a positive relationship with customers.
-
-Dissatisfaction (303): Customer dissatisfaction is another major reason for churn, which could stem from unmet expectations or a lack of alignment with customer needs. Understanding specific pain points is essential for addressing this.
-
-Lets check the reaso
+Let's check the reasons:
 ![image](https://github.com/user-attachments/assets/a376ccb2-cd7e-418a-8eef-74a156d4f143)
 
 
