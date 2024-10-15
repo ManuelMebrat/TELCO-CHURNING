@@ -32,7 +32,7 @@ This project leverages the Telco Customer Churn Dataset from IBM Congos to delve
 
 # Why is this happenning?
 
-TEXT TEXT TEXT Companies nowadays just focus in customer adquisition ////  #numbers but what is really happening. Lack of loyalty and early quit 
+Companies today often focus on customer acquisition, but what’s really happening is a lack of loyalty and high early churn. New customers frequently leave soon after joining, pointing to deeper issues beyond initial attraction. Without strong retention strategies, businesses risk losing customers as quickly as they gain them, missing opportunities for long-term growth and loyalty.
 
 
 ![image](https://github.com/user-attachments/assets/89264236-b8cb-4f1b-91cf-46473b33c1cc)
