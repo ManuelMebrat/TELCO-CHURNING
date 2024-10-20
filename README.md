@@ -11,7 +11,7 @@
 
 •Jupyter Notebook: Python code and libraries [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/e332f57bb493e15494778e493ec88b48f1cfa4e4/Churn_Files/Telco_EDA.ipynb).
 
-•SQL Queries: For QA testing of the dashboard [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/f8651f0e24319716efd08e31b1e4deb6349dab68/Churn_Files/SQL_QA_Churn.pages).
+•SQL Queries: For QA testing of the dashboard [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/2513e8c87ee4ad5461aa1aedf2873a6c2725f6d3/Churn_Files/SQL_QA_Churn.pages).
 
 •CSV Dataset: Download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/tree/4f03455ae77af51f0e771933edbb3136fcada4ab/Churn_Files/Churn%20data).
 
