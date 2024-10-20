@@ -1,6 +1,6 @@
 
 
-#  TELCO CHURNING
+#  WHY customers are leaving TELCO COMPANIES
 
 ### PROJECT STRUCTURE
 
