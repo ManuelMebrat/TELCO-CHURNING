@@ -1,6 +1,6 @@
 
 
-# **Why Are Customers Leaving Companies?**
+# **Why Are Customers Leaving Telecommunication Companies?**
 ### PROJECT STRUCTURE
 
 
