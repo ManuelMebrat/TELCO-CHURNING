@@ -13,7 +13,7 @@
 
 •SQL Queries: For QA testing of the dashboard [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/f8651f0e24319716efd08e31b1e4deb6349dab68/Churn_Files/SQL_QA_Churn.pages).
 
-•CSV Dataset: Download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/5dcf90172e48c1c4f5202ba78a73255ef38373a3/Churn_Files/Cchurn.csv).
+•CSV Dataset: Download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/tree/4f03455ae77af51f0e771933edbb3136fcada4ab/Churn_Files/Churn%20data).
 
 
 # Conclusions & recommendations: 
