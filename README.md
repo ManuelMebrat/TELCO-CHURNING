@@ -7,7 +7,7 @@
 
 <img width="1256" alt="Screenshot 2024-10-15 at 14 52 04" src="https://github.com/user-attachments/assets/e6177d6c-f48f-4f4a-9217-2875dc29ac63">
 
-•Interactive PowerBI Dashboard: Available for download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/72757fe4a04d21b7507a9d0b5ecdd95395e6c7ad/Churn_Files/HR_attrition.pbix).
+•Interactive PowerBI Dashboard: Available for download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/8303ffbcd3c8e950e6b74f72d942e6f5b9472cd3/Churn_Files/PowerBi%20Dashboard/Dashboard.md).
 
 •Jupyter Notebook: Python code and libraries [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/e332f57bb493e15494778e493ec88b48f1cfa4e4/Churn_Files/Telco_EDA.ipynb).
 
