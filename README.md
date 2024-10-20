@@ -1,7 +1,6 @@
 
 
-#  WHY customers are leaving TELCO COMPANIES
-
+# **Why Are Customers Leaving Companies?**
 ### PROJECT STRUCTURE
 
 
