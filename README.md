@@ -4,7 +4,7 @@
 ### PROJECT STRUCTURE
 
 
-<img width="1256" alt="Screenshot 2024-10-15 at 14 52 04" src="[https://github.com/user-attachments/assets/e6177d6c-f48f-4f4a-9217-2875dc29ac63](https://github.com/ManuelMebrat/FIRST-automatedRFQ/blob/827c4aaaf6752b0b8fdf18f8044a7caf786ff96c/Tools.png)">
+<https://github.com/ManuelMebrat/FIRST-automatedRFQ/blob/827c4aaaf6752b0b8fdf18f8044a7caf786ff96c/Tools.png>
 
 •Interactive PowerBI Dashboard: Available for download [[here]](https://github.com/ManuelMebrat/TELCO_CHURNING/blob/8303ffbcd3c8e950e6b74f72d942e6f5b9472cd3/Churn_Files/PowerBi%20Dashboard/Dashboard.md).
 
